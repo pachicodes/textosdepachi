@@ -17,8 +17,8 @@ title: Sobre
   <ul>
     <li><strong>Contos</strong> — Histórias curtas que exploram o extraordinário no cotidiano</li>
     <li><strong>Crônicas</strong> — Reflexões sobre a vida, o tempo e as pequenas coisas</li>
-    <li><strong>Poemas</strong> — Quando as palavras precisam de ritmo e silêncio</li>
-    <li><strong>Escrita</strong> — Pensamentos sobre o ofício de escrever</li>
+    <li><strong>Poemas</strong> — Quando meus sentimentos precisam virar palavras</li>
+    <li><strong>Escrita</strong> — Pensamentos sobre a vida de escritora</li>
   </ul>
   
   <p>Se algo aqui tocar você de alguma forma, ficarei feliz em saber. Pode me encontrar na página de <a href="/contato/">contato</a>.</p>
