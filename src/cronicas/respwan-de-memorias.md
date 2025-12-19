@@ -2,14 +2,13 @@
 layout: post.njk
 title: "Respawn de Memórias"
 date: 2025-07-18
-excerpt: "Sobre jogos e familia."
+excerpt: "Desde pequena eu jogo videogames. Uma das minhas memórias mais antigas é do meu irmão mais velho fazendo minha mãe vender algum tipo de rifa para tentar ganhar um videogame, eu não devia ter mais que 4 anos (hoje tenho 34)."
 tags:
   - cronica
   - cotidiano
   - familia
 ---
 
-Respawn de Memórias
 Desde pequena eu jogo videogames. Uma das minhas memórias mais antigas é do meu irmão mais velho fazendo minha mãe vender algum tipo de rifa para tentar ganhar um videogame, eu não devia ter mais que 4 anos (hoje tenho 34).
 Outra memória marcante foi quando, no primeiro Natal que meu irmão passou empregado, ele comprou um PlayStation 1 pra gente. O PlayStation 2 tinha acabado de ser lançado, mas a gente não ligou de ter o modelo antigo, estávamos apenas imensamente felizes de termos um PlayStation.
 Uma das mágicas do videogame para mim está em como ele me uniu aos meus irmãos. Sou filha do meio de um grupo de três e, além de ser do meio, sou a única menina. Tenho cinco anos de diferença para o meu irmão mais novo e quatro para o meu irmão mais velho e, apesar de sermos bem unidos hoje, isso não era verdade na infância e na adolescência. Mas, ainda assim, eu tenho memórias felizes da gente na sala jogando juntos jogos multiplayer ou assistindo uns aos outros jogar jogos de um jogador só. 
