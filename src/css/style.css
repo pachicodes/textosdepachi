@@ -122,10 +122,12 @@ a {
   color: var(--link-color);
   text-decoration: underline;
   text-underline-offset: 2px;
+  transition: color 0.25s ease, text-underline-offset 0.25s ease;
 }
 
 a:hover {
-  color: var(--link-hover);
+  color: #e74c3c;
+  text-underline-offset: 4px;
 }
 
 /* Parágrafos */
