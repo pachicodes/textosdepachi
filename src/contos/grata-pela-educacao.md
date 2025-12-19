@@ -4,10 +4,7 @@ title: "Grata pela Educação"
 date: 2025-06-15
 excerpt: "Sentada aqui, sozinha, em uma das últimas fileiras da igreja, olhando minha melhor amiga de infância se casar, eu me pergunto mais uma vez por que estou aqui."
 tags:
-  - casamento
-  - amizade
-  - reencontro
-  - romance
+
 ---
 
 

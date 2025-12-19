@@ -1,60 +1,42 @@
 ---
 layout: post.njk
-title: "Madrugada"
-date: 2024-12-01
+title: "Ela é assim"
+date: 2021-07-06
 tags:
   - poema
-  - noite
-  - silêncio
+  - amor
+  - escolhas
+  - sentimentos
 ---
 
-<div class="poema">
+Ela tinha umas coisas escondidas no fundo do coração.
+Bem fundo, porque ela acreditava que essas coisas não cabiam a ela.
 
-<div class="estrofe">
-São três da manhã
-e as palavras não dormem.
-Elas andam pela casa,
-descalças,
-procurando um canto
-onde possam fazer sentido.
-</div>
+Ela se convenceu de que as escolhas foram feitas, e as consequências eram pra sempre. 
+Então ela estava contente, e encontrava felicidade em todos os cantos que podia.
 
-<div class="estrofe">
-Eu as observo do sofá,
-fingindo que não vejo,
-fingindo que não me importo
-com o barulho que fazem
-ao esbarrar nos móveis
-da minha memória.
-</div>
+Muitas pequenas felicidades com certeza somam a se comparar a uma grande, não é mesmo?
 
-<div class="estrofe">
-Uma delas para na janela.
-Olha a lua como quem reconhece
-um rosto antigo.
-"Também não consegue dormir?"
-pergunta, sem se virar.
-</div>
+Mas parecia que não.
+Parecia que na verdade, as somas da felicidade funcionavam de maneira diferente.
 
-<div class="estrofe">
-Não respondo.
-Algumas perguntas
-são feitas apenas
-para provar que ainda estamos aqui.
-</div>
+Mas ainda assim ela seguia. Contente com o que tinha.
+Nos dias difíceis ela chorava baixinho e aceitava.
+Ela tinha desculpas pros outros,
+Se enganava enquanto enganava todo mundo. 
 
-<div class="estrofe">
-Às quatro, elas se cansam.
-Deitam-se no chão,
-umas sobre as outras,
-um monte de letras exaustas.
-</div>
+Mas como ela tentou…
+E tenta.
+Ela tenta todo dia…
 
-<div class="estrofe">
-E eu, finalmente,
-posso fechar os olhos.
-Sabendo que amanhã
-faremos tudo de novo.
-</div>
+Mas esses dias…
+Ela descobriu a esperança de mais.
+E as coisas contidas e escondidas no fundo do peito, ela as quer de novo.
+Ela quer tudo que merece agora.
 
-</div>
+Mas é tão difícil partir um coração.
+É tão difícil se sentir responsável por uma existência.
+
+Alguém algum dia disse que tu és eternamente responsável por aquilo que cativas. 
+Ou algo assim.
+Qual a verdade disso?
