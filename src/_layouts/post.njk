@@ -9,7 +9,7 @@ layout: base.njk
     {% if tags %}
     <div class="post-tags">
       {% for tag in tags %}
-        {% if tag != "post" %}
+        {% if tag != "contos" and tag != "cronicas" and tag != "poemas" and tag != "escrita" %}
         <span class="tag">{{ tag }}</span>
         {% endif %}
       {% endfor %}
