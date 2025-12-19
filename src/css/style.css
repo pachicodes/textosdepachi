@@ -322,7 +322,7 @@ blockquote {
 .cta-box p {
   font-size: 1.1rem;
   line-height: 1.6;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0;
   text-align: center;
 }
 
