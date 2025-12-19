@@ -28,6 +28,13 @@ module.exports = function(eleventyConfig) {
     });
   });
   
+  // Coleção com todos os textos combinados
+  eleventyConfig.addCollection("todosTextos", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/{contos,cronicas,poemas,escrita}/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+  
   // Filtro para formatar datas em português
   eleventyConfig.addFilter("dataPT", function(date) {
     const meses = [

@@ -14,34 +14,9 @@ title: Bem-vindo
   
   <h2>Últimos Textos</h2>
   
-  <h3>Contos</h3>
   <ul class="post-list">
-    {% for post in collections.contos | reverse %}
-      {% if loop.index <= 3 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.data.title }}</a>
-        <span class="date">{{ post.date | dataPT }}</span>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  
-  <h3>Crônicas</h3>
-  <ul class="post-list">
-    {% for post in collections.cronicas | reverse %}
-      {% if loop.index <= 3 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.data.title }}</a>
-        <span class="date">{{ post.date | dataPT }}</span>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  
-  <h3>Poemas</h3>
-  <ul class="post-list">
-    {% for post in collections.poemas | reverse %}
-      {% if loop.index <= 3 %}
+    {% for post in collections.todosTextos %}
+      {% if loop.index <= 6 %}
       <li>
         <a href="{{ post.url }}">{{ post.data.title }}</a>
         <span class="date">{{ post.date | dataPT }}</span>
