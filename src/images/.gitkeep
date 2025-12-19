@@ -1,0 +1,7 @@
+# Pasta de imagens
+Coloque suas imagens aqui para usar nos posts.
+
+Exemplo de uso no Markdown:
+```markdown
+![Descrição da imagem](/images/nome-da-imagem.jpg)
+```

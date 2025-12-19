@@ -1,0 +1,23 @@
+{
+  "name": "pachi-rangel-blog",
+  "version": "1.0.0",
+  "description": "Blog pessoal de escrita - Contos, Crônicas e Poemas",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "debug": "DEBUG=* eleventy"
+  },
+  "keywords": [
+    "blog",
+    "escrita",
+    "contos",
+    "poemas",
+    "cronicas",
+    "eleventy"
+  ],
+  "author": "Pachi Rangel",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

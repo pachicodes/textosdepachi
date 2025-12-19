@@ -1,0 +1,23 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependências
+node_modules/
+
+# Build
+_site/
+
+# Ambiente
+.env
+.env.local
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*

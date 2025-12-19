@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Poemas
+---
+
+<h1>Poemas</h1>
+
+<p>Quando as palavras precisam de ritmo, silêncio e espaço para respirar.</p>
+
+<ul class="post-list">
+  {% for post in collections.poemas | reverse %}
+  <li>
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <span class="date">{{ post.date | dataPT }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if collections.poemas.length == 0 %}
+<p><em>Em breve, novos poemas serão publicados aqui.</em></p>
+{% endif %}

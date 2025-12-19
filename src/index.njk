@@ -1,0 +1,52 @@
+---
+layout: base.njk
+title: Bem-vindo
+---
+
+<article class="home">
+  <h1>Um cantinho para minhas palavras</h1>
+  
+  <p>Olá! Seja bem-vindo ao meu espaço de escrita. Aqui você encontrará contos, crônicas, poemas e reflexões sobre o ofício de escrever.</p>
+  
+  <p>Cada texto é uma janela para mundos possíveis, sentimentos traduzidos em palavras e histórias que pedem para ser contadas.</p>
+  
+  <hr style="border: none; border-top: 1px dashed var(--border-color); margin: 2rem 0;">
+  
+  <h2>Últimos Textos</h2>
+  
+  <h3>Contos</h3>
+  <ul class="post-list">
+    {% for post in collections.contos | reverse %}
+      {% if loop.index <= 3 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <span class="date">{{ post.date | dataPT }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <h3>Crônicas</h3>
+  <ul class="post-list">
+    {% for post in collections.cronicas | reverse %}
+      {% if loop.index <= 3 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <span class="date">{{ post.date | dataPT }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <h3>Poemas</h3>
+  <ul class="post-list">
+    {% for post in collections.poemas | reverse %}
+      {% if loop.index <= 3 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <span class="date">{{ post.date | dataPT }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</article>

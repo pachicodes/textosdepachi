@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}Pachi Rangel</title>
+  <meta name="description" content="{{ description | default('Blog pessoal de Pachi Rangel - Contos, Crônicas, Poemas e Escrita') }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <header>
+        <h1 class="site-title"><a href="/">Pachi Rangel</a></h1>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="/sobre/">Sobre</a></li>
+            <li><a href="/contos/">Contos</a></li>
+            <li><a href="/cronicas/">Crônicas</a></li>
+            <li><a href="/poemas/">Poemas</a></li>
+            <li><a href="/escrita/">Escrita</a></li>
+            <li><a href="/contato/">Contato</a></li>
+          </ul>
+        </nav>
+      </header>
+    </aside>
+    
+    <main class="content">
+      {{ content | safe }}
+      
+      <aside class="cta-box">
+        <p>Gostou do que leu? <a href="https://substack.com/@textosdepachi?/">Assine minha newsletter</a> gratuita!</p>
+      </aside>
+    </main>
+  </div>
+  
+  <footer class="site-footer">
+    <p>© 2025 Pachi Rangel. Feito com ♥ e palavras.</p>
+  </footer>
+</body>
+</html>
