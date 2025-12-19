@@ -1,0 +1,5 @@
+{
+  "layout": "post.njk",
+  "permalink": "/cronicas/{{ page.fileSlug }}.html",
+  "tags": ["cronicas"]
+}

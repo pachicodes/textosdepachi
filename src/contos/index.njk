@@ -1,14 +1,15 @@
 ---
 layout: base.njk
-title: Crônicas
+title: Contos
+permalink: /contos/
 ---
 
-<h1>Crônicas</h1>
+<h1>Contos</h1>
 
-<p>Reflexões sobre a vida, o tempo e as pequenas coisas que nos fazem humanos.</p>
+<p>Histórias curtas para ler em uma sentada — ou para guardar e revisitar.</p>
 
 <ul class="post-list">
-  {% for post in collections.cronicas | reverse %}
+  {% for post in collections.contos | reverse %}
   <li>
     <a href="{{ post.url }}">{{ post.data.title }}</a>
     <span class="date">{{ post.date | dataPT }}</span>
@@ -19,6 +20,6 @@ title: Crônicas
   {% endfor %}
 </ul>
 
-{% if collections.cronicas.length == 0 %}
-<p><em>Em breve, novas crônicas serão publicadas aqui.</em></p>
+{% if collections.contos.length == 0 %}
+<p><em>Em breve, novos contos serão publicados aqui.</em></p>
 {% endif %}
