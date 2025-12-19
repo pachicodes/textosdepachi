@@ -21,6 +21,8 @@ title: Sobre
     <li><strong>Escrita</strong> — Pensamentos sobre a vida de escritora</li>
   </ul>
   
+  <p style="text-align: center; font-size: 1.5rem; margin: 2rem 0;">✨📚✨</p>
+  
   <p>Se algo aqui tocar você de alguma forma, ficarei feliz em saber. Pode me encontrar na página de <a href="/contato/">contato</a>.</p>
   
   <p>Obrigada por estar aqui.</p>
