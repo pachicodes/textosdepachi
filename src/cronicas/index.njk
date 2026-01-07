@@ -13,9 +13,6 @@ permalink: /cronicas/
   <li>
     <a href="{{ post.url }}">{{ post.data.title }}</a>
     <span class="date">{{ post.date | dataPT }}</span>
-    {% if post.data.excerpt %}
-    <p class="excerpt">{{ post.data.excerpt }}</p>
-    {% endif %}
   </li>
   {% endfor %}
 </ul>

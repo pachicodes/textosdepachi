@@ -2,7 +2,6 @@
 layout: post.njk
 title: "Respawn de Memórias"
 date: 2025-07-18
-excerpt: "Desde pequena eu jogo videogames. Uma das minhas memórias mais antigas é do meu irmão mais velho fazendo minha mãe vender algum tipo de rifa para tentar ganhar um videogame, eu não devia ter mais que 4 anos (hoje tenho 34)."
 tags:
   - cronica
   - cotidiano

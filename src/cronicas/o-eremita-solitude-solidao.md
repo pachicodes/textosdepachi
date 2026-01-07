@@ -2,7 +2,6 @@
 layout: post.njk
 title: "O Eremita: Entre Solitude e Solidão"
 date: 2026-01-06
-excerpt: "Existe uma linha tênue entre os temas de solitude e solidão. Para uma introvertida como eu, os dois são bem diferentes: a solitude é uma escolha, um momento necessário para reflexão e autoconhecimento; a solidão é um vazio involuntário que toca a alma."
 tags:
   - cronica
   - reflexões

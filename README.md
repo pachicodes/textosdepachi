@@ -2,7 +2,7 @@
 
 Um blog pessoal para contos, crônicas, poemas e reflexões sobre escrita.
 
-Feito com [Eleventy](https://www.11ty.dev/) e muito ☕.
+Feito com [Eleventy](https://www.11ty.dev/).
 
 ---
 
