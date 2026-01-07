@@ -45,6 +45,14 @@ module.exports = function(eleventyConfig) {
     return `${d.getDate()} de ${meses[d.getMonth()]}, ${d.getFullYear()}`;
   });
 
+  // Filtro para calcular tempo de leitura
+  eleventyConfig.addFilter("tempoLeitura", function(content) {
+    const wordsPerMinute = 200;
+    const wordCount = content.trim().split(/\s+/).length;
+    const readingTime = Math.ceil(wordCount / wordsPerMinute);
+    return readingTime === 1 ? "1 min de leitura" : `${readingTime} min de leitura`;
+  });
+
   return {
     dir: {
       input: "src",

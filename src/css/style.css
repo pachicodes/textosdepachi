@@ -203,19 +203,20 @@ p {
   text-decoration: underline;
 }
 
-.post-list .date {
-  display: block;
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  font-style: italic;
-  margin-top: 0.25rem;
-}
-
 .post-list .post-meta {
   display: flex;
   align-items: center;
   gap: 0.75rem;
   margin-top: 0.25rem;
+}
+
+.post-list .reading-time {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  background: var(--bg-light);
+  border: 1px solid var(--border-color);
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
 }
 
 .post-list .category {
@@ -226,6 +227,12 @@ p {
   border: 1px solid var(--border-color);
   padding: 0.1rem 0.5rem;
   border-radius: 3px;
+}
+
+.post-list .date {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
 }
 
 /* Tags */
